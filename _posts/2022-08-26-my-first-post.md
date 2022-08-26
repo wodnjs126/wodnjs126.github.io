@@ -13,26 +13,4 @@ toc_sticky: true
 date: 2022-08-26
 last_modified_at: 2022-08-26
 ---
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>수상 대장 만들기</h1>
-    <script>
-    a=prompt("평균점수를 입력하세요");
-    d=prompt("결석 일수를 입력하세요");
-    if(a=>90 && d==0){
-        document.write("우수상 수여");
-    }
-    else{
-        document.write("수상 대상자가 아닙니다");
-    }
-    </script>
-</body>
-</html>
+![image]https://github.com/wodnjs126/wodnjs126.github.io/blob/master/%EC%8A%A4%ED%81%AC%EB%A6%B0%EC%83%B7(68).png
